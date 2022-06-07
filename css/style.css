@@ -1,0 +1,133 @@
+.logo {
+    height: 50px;
+}
+.ayrac {
+    font-size: 20px;
+    margin: 0 20px;
+    color: white;
+}
+.nav-bg {
+    background-color:rgba(150,150,150,0.356);
+}
+.ust-kisim {
+   height: 100vh;
+   width: 100%;
+   background-size: cover;
+   background-position:center center;
+   background-repeat: no-repeat ;
+   background-attachment: fixed;
+}
+.ust-kisim-sayfalar {
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+ }
+.nav-item a {
+    color: #FFFF;
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav-item a:hover {
+    color: #f4b70b;
+}
+@media screen and (max-width:992px) {
+    .ayrac {
+        display: none;
+    }
+    .nav-item:hover {
+        background-color: black;
+    }
+}
+
+.bosluk {
+    margin-top: 100px;
+}
+.teklif {
+    height: 60px;
+}
+.tirnak {
+    color:#f4b70b;
+    font-size: 36px;
+    font-weight: bold;
+}
+.imza {
+    font-size: 20px;
+}
+.hizmetlerimiz {
+    background-color: #f4b70b;
+    width: 100%;
+}
+
+
+
+
+.tirnak1 {
+    color:#f4b70b;
+    font-size: 52px;
+    font-weight: bold;
+}
+
+.soz {
+    font-size: 40px;
+    color: white;
+}
+
+.rocket-icon {
+    font-size: 50px;
+    color: white;
+}
+.calisma {
+ padding: 5px;
+ border: 1px solid transparent;
+}
+.calisma:hover {
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.calisma img {
+    height: 150px;
+}
+
+.header-yuk {
+    height: calc(50vh - 70px);
+}
+
+.sayfa-baslik h3 {
+    color:#f4b70b;
+    font-weight: bold;
+}
+#hakkimizda1 {
+    width: 500px;
+}
+
+.sayfa-baslik {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #2C3e50;
+    height: 300px;
+    color: #95a5a6;
+    
+}
+.footer p {
+    font-size: 24px;
+}
+.footer-sutun {
+    height: 300px;
+}
+.kurumsal-calisma {
+    height: 150px;
+    
+}
+.devam a:hover {
+    color: black !important;
+}
+
+.simgeler {
+    font-size: 16px;
+}
